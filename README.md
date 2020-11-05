@@ -1,2 +1,2 @@
 # docs
-Documentation of DompetKripto.com
+Documentation of [DompetKripto.com](https://dompetkripto.com)
