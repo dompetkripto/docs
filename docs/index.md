@@ -17,7 +17,7 @@ Blockchain adalah teknologi penyimpanan data digital yang bersifat terdesentrali
 
   Paper sejumlah 8 halaman yang dibuat berdekatan dengan krisis global ini, berhasil memicu reaksi beberapa pakar teknologi kriptografi sehingga gagasan Satoshi berhasil terealisasi pada tahun 2009. Beberapa orang secara sukarela membantu Satoshi Nakamoto dalam membangun Bitcoin.
 
-  Satoshi sendiri sampai sekarang tidak pernah membuka identitasnya. Tidak ada yang tahu siapa dirinya sebenernya. Apakah Laki-laki? Apakah Perempuan? Ataukah sekelompok oknum? Keberadaan dia masih menjadi misteri hingga saat ini.
+  Satoshi sendiri sampai sekarang tidak pernah membuka identitasnya. Tidak ada yang tahu siapa dirinya sebenarnya.Keberadaan dia masih menjadi misteri hingga saat ini.
 
   Sesungguhnya, tidak ada istilah "blockchain" pada paper karya Satoshi Nakamoto itu. Alih-alih menggunakan istilah "blockchain", Satoshi malah menggunakan istilah "timechain".
 
